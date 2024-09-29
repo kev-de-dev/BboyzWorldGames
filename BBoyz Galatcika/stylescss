@@ -1,0 +1,11 @@
+h2 {
+    color: #3498db; /* Couleur pour les titres */
+    margin-bottom: 10px;
+}
+
+section {
+    background-color: #f9f9f9; /* Fond pour les sections */
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 5px;
+}
